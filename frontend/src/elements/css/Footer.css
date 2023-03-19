@@ -1,0 +1,10 @@
+.footerLine {
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.footerLine p {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}

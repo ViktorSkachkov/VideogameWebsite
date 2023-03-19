@@ -1,0 +1,15 @@
+.formLabelUsername {
+    padding-right: 100px;
+}
+.formLabelPassword {
+    padding-right: 105px;
+}
+.formLabelRepeatPassword {
+    padding-right: 52px;
+}
+.formLabelEmail {
+    padding-right: 133px;
+}
+.formLabelBankAccount {
+    padding-right: 75px;
+}

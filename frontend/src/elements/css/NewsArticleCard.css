@@ -1,0 +1,10 @@
+.newsArticleCard {
+    display: flex;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 20px;
+}
+.text {
+    margin-left: 5px;
+    margin-right: 5px;
+}

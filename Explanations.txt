@@ -1,0 +1,6 @@
+The data for the app is dumped in the folder "database". It's from MySQL Workbench, so you will need to import it or find some other way to run it.
+
+You can log in as an Employee with 
+
+username: username15 
+password: name5

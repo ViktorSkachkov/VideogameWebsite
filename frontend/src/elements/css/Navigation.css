@@ -1,0 +1,18 @@
+.navBar {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.navLinks {
+    display: flex;
+}
+.navBar a {
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
